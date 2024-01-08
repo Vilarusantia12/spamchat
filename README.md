@@ -1,1 +1,1 @@
-# spamchat
+# spam-sms-classifier
